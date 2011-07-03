@@ -1,0 +1,23 @@
+MIDlet-1: XFMobile,/img/logo_xf.png,xfire.XFMobileMidlet
+MIDlet-Permissions: javax.microedition.io.Connector.http, javax.microedition.io.Connector.socket, javax.microedition.pim.ContactList.read, javax.microedition.io.Connector.sms, javax.wireless.messaging.sms.send
+IA-X-mediaPageStr:  ClientMedia
+MIDlet-Vendor: Vendor
+IA-X-offlineReportPageStr: ClientOfflineReport 
+IA-X-languageFilePageStr: GetLanguageStringsFile 
+IA-X-cmdOK: ok
+IA-X-disclaimerText: We are able to provide you a free, full version of this game thanks to the help of our sponsors, carefully  selected to meet your preference. 
+MIDlet-Name: Xfmobile
+IA-X-firstURL: http://cd1.inner-active.com/Server-1.8X/ClientStart 
+IA-X-portal: 519
+IA-X-disclaimerTitle: Information 
+MIDlet-Version: 1.0
+IA-X-socketSupport: 0
+IA-X-getOfferingPageStr: ClientGetOffering 
+IA-X-contentName: GamePE_XfMobile
+IA-X-socketPor: 82
+IA-X-cmdExit: exit
+IA-X-disclaimerFlag: 0
+IA-X-invertedFlag: non
+IA-X-errorInDisclaimerNotice: Oops... There has been a connectivity error and the application will exit now. Please check the  connectivity setting and try again. 
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gamepe", "Gamepe\Gamepe.vcproj", "{20FA860E-D65A-4B24-A7A6-35895866B59B}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "Setup", "Setup\Setup.vddproj", "{902B39B4-A857-40BD-A309-F922DF332DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Pocket PC 2003 (ARMV4) = Debug|Pocket PC 2003 (ARMV4)
+		Release|Pocket PC 2003 (ARMV4) = Release|Pocket PC 2003 (ARMV4)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20FA860E-D65A-4B24-A7A6-35895866B59B}.Debug|Pocket PC 2003 (ARMV4).ActiveCfg = Debug|Pocket PC 2003 (ARMV4)
+		{20FA860E-D65A-4B24-A7A6-35895866B59B}.Debug|Pocket PC 2003 (ARMV4).Build.0 = Debug|Pocket PC 2003 (ARMV4)
+		{20FA860E-D65A-4B24-A7A6-35895866B59B}.Debug|Pocket PC 2003 (ARMV4).Deploy.0 = Debug|Pocket PC 2003 (ARMV4)
+		{20FA860E-D65A-4B24-A7A6-35895866B59B}.Release|Pocket PC 2003 (ARMV4).ActiveCfg = Release|Pocket PC 2003 (ARMV4)
+		{20FA860E-D65A-4B24-A7A6-35895866B59B}.Release|Pocket PC 2003 (ARMV4).Build.0 = Release|Pocket PC 2003 (ARMV4)
+		{20FA860E-D65A-4B24-A7A6-35895866B59B}.Release|Pocket PC 2003 (ARMV4).Deploy.0 = Release|Pocket PC 2003 (ARMV4)
+		{902B39B4-A857-40BD-A309-F922DF332DE5}.Debug|Pocket PC 2003 (ARMV4).ActiveCfg = Debug
+		{902B39B4-A857-40BD-A309-F922DF332DE5}.Release|Pocket PC 2003 (ARMV4).ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

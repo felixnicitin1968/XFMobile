@@ -1,0 +1,24 @@
+{
+	"CFBundleDevelopmentRegion" = English;
+	CFBundleDisplayName = "${PRODUCT_NAME}";
+	CFBundleExecutable = "${PRODUCT_NAME}";
+	CFBundleIconFile = "xfire.png";
+	CFBundleIdentifier = "com.gamepe.iXfire";
+	"CFBundleInfoDictionaryVersion" = 267;
+	"CFBundleGetInfoString" = "";
+	CFBundleName = "${PRODUCT_NAME}";
+	"Required background modes" = (
+		"App plays audio",
+	);
+	CFBundlePackageType = APPL;
+	"CFBundleShortVersionString" = 267;
+	CFBundleSignature = "????";
+	CFBundleVersion = 267;
+	UIBackgroundModes = (
+		audio,
+	);
+	LSRequiresIPhoneOS = YES;
+	NSMainNibFile = MainWindow;
+	UIStatusBarHidden = YES;
+	"NSHumanReadableCopyright" = "Moti Joseph";
+}

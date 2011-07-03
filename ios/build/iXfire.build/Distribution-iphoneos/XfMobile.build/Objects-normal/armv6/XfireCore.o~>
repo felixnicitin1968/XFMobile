@@ -1,0 +1,28 @@
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m: In function '-[NUSERID getUserid]':
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:35: warning: conflicting types for '-(int)getUserid'
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.h:67: warning: previous declaration of '-(uint32)getUserid'
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m: In function '-[XfireCore HandleSearchFriends:MsgSize:]':
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:980: warning: format not a string literal and no format arguments
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m: In function '-[XfireCore handlsRequestForInformation:MsgSize:]':
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:1384: warning: pointer targets in passing argument 1 of 'hashSha1' differ in signedness
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m: In function '-[XfireCore HandleAuth:MsgSize:]':
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:1480: warning: conflicting types for '-(void)HandleAuth:(unsigned char *)pBuffer MsgSize:(uint32)dwMsgSize'
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.h:203: warning: previous declaration of '-(void)HandleAuth:(unsigned char *)pBuffer MsgSize:(short unsigned int)dwMsgSize'
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m: In function '-[XfireCore XfMobile_HandleIM:MsgSize:]':
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:1983: warning: pointer targets in passing argument 1 of 'strlen' differ in signedness
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:2013: warning: pointer targets in passing argument 2 of 'OnRecvMessage:Msg:' differ in signedness
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m: In function '-[XfireCore XfMobileHandle_BuddyInitation:MsgSize:]':
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:3018: warning: unused variable 'nickname_count'
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:2978: warning: unused variable 'username_count'
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m: In function '-[XfireCore XfMobileGChat_TopicChange:MsgSize:]':
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:3549: warning: format not a string literal and no format arguments
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m: In function '-[XfireCore bGetMsgQuene:Data:Size:Index:Key:]':
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:3996: warning: pointer targets in passing argument 2 of 'bGet:Data:Size:Index:Key:' differ in signedness
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:3996: warning: pointer targets in passing argument 4 of 'bGet:Data:Size:Index:Key:' differ in signedness
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m: In function '-[XfireCore bPutMsgQuene:Data:Size:Index:Key:]':
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:4032: warning: pointer targets in passing argument 2 of 'bPut:Data:Size:Index:Key:' differ in signedness
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m: In function '-[XfireCore OnRead]':
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:4058: warning: pointer targets in assignment differ in signedness
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m: At top level:
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:4283: warning: incomplete implementation of class 'XfireCore'
+/Users/xfmobile/Desktop/XfMobile Pro/Classes/XfireCore.m:4283: warning: method definition for '-_myNickname' not found

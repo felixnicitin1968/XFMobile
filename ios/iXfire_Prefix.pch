@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'iXfire' target in the 'iXfire' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
