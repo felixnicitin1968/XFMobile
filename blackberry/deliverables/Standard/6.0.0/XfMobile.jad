@@ -1,0 +1,101 @@
+RIM-COD-SHA1-9: ab 2e e9 0b 3e 40 93 af 3c df 87 32 8b c9 6e d6 14 d8 fe d8
+RIM-COD-SHA1-8: aa 0d 3c 71 c5 1a 22 f0 fa 49 99 c2 7d f3 8c 8e 01 ad 98 97
+RIM-COD-SHA1-7: 12 69 5c 1a 77 43 cc 72 f9 f8 35 d9 f0 05 87 16 6b 67 23 99
+RIM-COD-Size-28: 58148
+RIM-COD-SHA1-6: cb b0 04 e5 1b e5 ad 8a 72 8c ad 5b b8 13 18 bf 3a 7d 1f bb
+RIM-COD-Size-27: 55492
+RIM-COD-SHA1-5: 9d 70 f6 55 7e 3f 98 6e be c0 ec c0 22 50 8f a7 75 bd d7 4b
+RIM-COD-Size-26: 58956
+RIM-COD-SHA1-4: f3 34 75 51 21 05 67 fb fb 80 d3 5e 64 da b3 61 6a a4 34 3b
+RIM-COD-Size-25: 55544
+RIM-COD-SHA1-3: 02 69 19 70 6e 2a 84 a3 dc 16 2a 72 9a 07 4e 63 4a f8 80 96
+RIM-COD-Size-24: 56996
+RIM-COD-SHA1-2: 00 eb 01 59 d5 fa 96 cf df 3f 8b 94 9f 99 5c 24 b8 76 cb 2b
+RIM-COD-Size-23: 58452
+RIM-COD-SHA1-1: 9f 18 e6 2b b6 2c f9 63 92 f1 98 3c dc 97 6e 96 7b 9b a9 80
+RIM-COD-Size-22: 56520
+RIM-COD-Size-21: 44508
+RIM-COD-Size-20: 50140
+RIM-COD-URL-19: XfMobile-19.cod
+RIM-COD-URL-18: XfMobile-18.cod
+RIM-COD-URL-17: XfMobile-17.cod
+RIM-COD-URL-16: XfMobile-16.cod
+RIM-COD-URL-15: XfMobile-15.cod
+RIM-COD-URL-14: XfMobile-14.cod
+RIM-COD-URL-13: XfMobile-13.cod
+RIM-COD-URL-12: XfMobile-12.cod
+RIM-COD-Size: 38116
+RIM-COD-URL-11: XfMobile-11.cod
+RIM-COD-URL-10: XfMobile-10.cod
+MIDlet-Vendor: Moti Joseph
+Manifest-Version: 1.0
+RIM-MIDlet-Flags-1: 1
+RIM-COD-Size-19: 50140
+RIM-COD-Size-18: 50140
+RIM-COD-Size-17: 42032
+RIM-COD-Size-16: 48364
+RIM-COD-Size-15: 57988
+RIM-COD-Size-14: 56804
+RIM-COD-Size-13: 58628
+RIM-COD-Size-12: 57748
+RIM-COD-Size-11: 54648
+RIM-COD-Size-10: 59768
+MIDlet-Version: 0.0
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-SHA1-28: da b3 75 24 30 88 fe c6 9d 7a 28 5a 99 6b 7e 0d 25 71 96 85
+RIM-COD-SHA1-27: e8 fc 74 2e 22 b5 44 5e 9e 4d 2c bd 4b d7 dd ff be f6 a8 05
+RIM-COD-SHA1-26: c8 9c d0 21 6e 7c aa 99 4e df 4a c7 6c ef f5 71 70 3a 7c fd
+RIM-COD-SHA1-25: 9d 95 4a 51 1e 20 50 8f 52 4f ce 68 99 42 7b e2 f4 83 f1 22
+RIM-COD-SHA1-24: 92 c4 6b 8e 5c 9b 7f f7 64 ad 84 eb 35 a6 fd 36 8b d4 2a 34
+RIM-COD-SHA1-23: dd 80 d4 ad 55 6f a1 f4 a1 5e c6 82 c3 09 db fe e2 bb bf 3c
+RIM-COD-SHA1-22: cf be cd b5 d9 01 ba b0 09 70 d4 89 86 97 f8 c1 1b 38 f5 21
+RIM-COD-SHA1-21: 75 c6 05 54 95 25 47 1f b9 d5 9a 38 92 eb 4e 43 7e 5e b8 d8
+RIM-COD-SHA1-20: c5 cf c4 64 71 59 a9 ae 52 62 b0 56 ed dc 28 3f f6 0b d2 7e
+RIM-COD-URL: XfMobile.cod
+RIM-COD-Creation-Time: 1309276169
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: xfmobile_bb.jar
+RIM-COD-SHA1-19: 14 ab c2 0c 0e 83 b2 50 35 8f ab 81 8c 5a e6 fa 81 f4 77 80
+RIM-COD-SHA1-18: 2f dd f7 16 f8 21 f7 cf 96 e9 10 4e 52 39 a9 cf d1 fd 79 cc
+RIM-COD-SHA1-17: 4a 9c 08 58 ec ff 64 f8 e7 e1 af 3d a7 ed 74 92 56 45 35 da
+RIM-COD-SHA1-16: 26 09 e7 67 b1 cf 78 6f 59 6b 51 17 e3 05 59 71 82 93 ff df
+RIM-COD-SHA1-15: 36 e6 93 59 38 6e 9e e6 b7 d7 42 03 b2 28 3e fd 4a 90 b9 6e
+RIM-COD-SHA1-14: 96 e4 60 96 28 7f 3b 38 10 3c 1a c9 bb fa 44 ca db 8e 48 6e
+RIM-COD-SHA1-13: dc 47 4d 11 ed c3 71 fb 73 7f 37 59 18 29 6b b1 6e b2 4c e3
+RIM-COD-SHA1-12: 74 11 79 19 f6 84 bf 7d c8 90 38 9c f5 77 17 3c 9d f7 da 09
+RIM-COD-Size-9: 58088
+RIM-COD-SHA1-11: f5 df b5 17 ee 6b 2b 56 06 07 68 e9 52 49 1b 67 46 88 31 ba
+RIM-COD-Size-8: 58340
+RIM-COD-SHA1-10: f4 2a 4a b2 38 2c 74 57 98 18 60 0e 43 b3 e7 2b f1 75 bc 4a
+RIM-COD-Size-7: 58352
+MIDlet-Description: Xfire client
+RIM-COD-Size-6: 59072
+RIM-COD-Size-5: 57520
+RIM-COD-Size-4: 55048
+RIM-COD-Size-3: 53028
+RIM-COD-Size-2: 56288
+RIM-COD-Size-1: 92588
+MIDlet-1: XfMobile Pro,images/logo.png,
+MIDlet-Name: xfmobile_bb
+RIM-COD-SHA1: a8 af a6 b9 44 25 81 96 db 7f d8 e5 86 a5 3d c9 a6 65 95 c4
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser,net_rim_bbapi_invoke,net_rim_os
+MIDlet-Jar-Size: 2237987
+RIM-COD-URL-9: XfMobile-9.cod
+RIM-COD-URL-8: XfMobile-8.cod
+RIM-COD-URL-7: XfMobile-7.cod
+RIM-COD-URL-6: XfMobile-6.cod
+RIM-COD-URL-5: XfMobile-5.cod
+RIM-COD-URL-4: XfMobile-4.cod
+RIM-COD-URL-3: XfMobile-3.cod
+RIM-COD-URL-2: XfMobile-2.cod
+RIM-COD-URL-1: XfMobile-1.cod
+RIM-COD-URL-28: XfMobile-28.cod
+RIM-COD-URL-27: XfMobile-27.cod
+RIM-COD-URL-26: XfMobile-26.cod
+RIM-COD-Module-Name: XfMobile
+RIM-COD-URL-25: XfMobile-25.cod
+RIM-COD-URL-24: XfMobile-24.cod
+RIM-COD-URL-23: XfMobile-23.cod
+RIM-COD-URL-22: XfMobile-22.cod
+RIM-COD-URL-21: XfMobile-21.cod
+RIM-COD-URL-20: XfMobile-20.cod

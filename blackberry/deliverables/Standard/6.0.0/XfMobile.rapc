@@ -1,0 +1,11 @@
+MIDlet-Name: xfmobile_bb
+MIDlet-Version: 0.0
+MIDlet-Vendor: Moti Joseph
+MIDlet-Description: Xfire client
+MIDlet-Jar-URL: xfmobile_bb.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: XfMobile Pro,images/logo.png,
+RIM-MIDlet-Flags-1: 1
+
